@@ -8,7 +8,7 @@ How to Run the website-
 3.) Open your Visual Studio Code software and open the folder of the project.
 4.) Now, in the terminal of your Virtual Studio code , open the directory of your project using command:
                         cd <directory of the project>
-                        Example: cd c:\Aniket\Project\organic-uttarakhand
+                        Example: cd c:\Aniket\Project\organicfarm
                         
 5.) Now in the terminal use the command:
                                           npm start
